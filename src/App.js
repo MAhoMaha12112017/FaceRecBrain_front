@@ -10,6 +10,8 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 
+// testing github
+
 const app = new Clarifai.App({
   apiKey: xxx
 });
